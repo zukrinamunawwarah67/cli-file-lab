@@ -1,3 +1,7 @@
+
+This is my initial file.
+Adding feature branch updates.
 This is my original file (resolved conflict).
 Added these words directly from GitHub web.
 Adding feature branch updates.
+
